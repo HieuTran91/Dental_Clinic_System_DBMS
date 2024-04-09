@@ -10,7 +10,7 @@ This project to build an application about the oral health care system of the Ad
 - Framework: Flask
 
 - Design: Draw.io, Figma
-- 
+
 ## Features
 - Design databases at logical and physical levels and build database schema from system requirements.
 - Access control user by using View
